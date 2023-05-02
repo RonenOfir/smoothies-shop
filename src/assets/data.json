@@ -1,8 +1,8 @@
  [
   {
     "id": "1",
-    "name": "Canon EOS 400D",
-    "image": "https://res.cloudinary.com/dz4tt9omp/image/upload/v1660868999/camera.png",
+    "name": "בננה קפואה 1 קילו",
+    "image": "assets/images/banana.jpeg",
     "description":"It is the successor of the Canon EOS 350D, and upgrades to a 10.1 megapixel CMOS sensor, a larger continuous shooting buffer, an integrated image sensor vibrating cleaning system (first used in a Canon EOS DSLR), a more precise nine-point autofocus system from the EOS 30D, improved grip, and a bigger 2.5-inch (64 mm) LCD with 230,000 pixels and a larger viewing angle which replaces the top status screen.",
     "type": "Photography",
     "color": "Black",
@@ -12,8 +12,8 @@
   },
   {
     "id": "2",
-    "name": "Electric Lead Guitar",
-    "image": "https://res.cloudinary.com/dz4tt9omp/image/upload/v1660869064/guitar.jpg",
+    "name": "תות שדה קפוא 1 קילו",
+    "image": "assets/images/strawberry.jpeg",
     "description":"The tonewoods, hardware, pickups, comfort, balance, playability and tone set this guitars apart, giving them a credibility which will surprise even the most experienced player, and inspire the ‘first time’ player to play, play now – and carry on playing! Blaster Series guitars feature specially created vintage-voiced pickups to produce astonishingly accurate and authentic tone.",
     "type": "Music",
     "color": "Brown",
@@ -23,8 +23,8 @@
   },
   {
     "id": "3",
-    "name": "GIGABYTE G5 KD",
-    "image": "https://res.cloudinary.com/dz4tt9omp/image/upload/v1660869096/laptop.png",
+    "name": "דומדמניות חמוצות 1 קילו",
+    "image": "assets/images/redcurrants.jpeg",
     "description":"Give it up to the Gigabyte G5 KD-52US123SO gaming laptop. Its’s a refreshed RTX 3060 version of the Gigabyte G5 GD-51US123SO that’s already a great laptop. When we reviewed the latter a few months ago. We found it to be something of a genre buster with its RTX 3050 graphics card, awesome Intel “Tiger Lake” CPU and great gaming performance.",
     "type": "Computer",
     "color": "Black",
@@ -34,8 +34,8 @@
   },
   {
     "id": "4",
-    "name": "Shure 55SH",
-    "image": "https://res.cloudinary.com/dz4tt9omp/image/upload/v1660869121/microphone.png",
+    "name": "פטל שחור קפוא 1 קילו",
+    "image": "assets/images/blackberries.jpeg",
     "description":"If you want to capture a classic look, you need the gear to match the genre. Nothing completes the style quite like the 55SH Series II, a microphone that has been gripped by legends for decades. Others may imitate, but none can duplicate the form and function standards Shure has held from our first Unidyne mic to our latest.",
     "type": "Podcast",
     "color": "Silver",
