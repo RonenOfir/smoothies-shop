@@ -165,7 +165,6 @@ a:hover {
 --------------------------------------------------------------------------*/
 /* Multicolumn */
 .service-wrapper {
-  background: #FFF;
   margin: 20px 10px;
   text-align: center;
   padding: 30px 20px;
@@ -175,9 +174,6 @@ a:hover {
   -moz-background-clip: padding;
   border-radius: 5px;
   background-clip: padding-box;
-  -webkit-box-shadow: 0 0 3px #999;
-  -moz-box-shadow: 0 0 3px #999;
-  box-shadow: 0 0 3px #999;
   color: 0 0 3px #999;
 }
 .service-wrapper h3 {
@@ -588,7 +584,6 @@ a:hover {
 --------------------------------------------------------------------------*/
 /* Posts List */
 .blog-post {
-  background: #FFF;
   position: relative;
   margin: 20px 0;
   border: 7px solid #FFF;
