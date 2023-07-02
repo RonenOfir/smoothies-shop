@@ -10,15 +10,18 @@ import { FormsModule } from '@angular/forms';
 import { PaymentComponent } from './payment/payment.component';
 import { NgxPayPalModule } from 'ngx-paypal';
 import { SuccessComponent } from './success/success.component';
+import { GeneralOrderComponent } from './general-order/general-order.component';
+import { PaddleModule } from 'ngx-paddle-wrapper';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, PaymentComponent, SuccessComponent],
+  declarations: [AppComponent, HomeComponent, PaymentComponent, SuccessComponent, GeneralOrderComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
     NgxPayPalModule,
+    PaddleModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
